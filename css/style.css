@@ -1,0 +1,94 @@
+    body{
+        background-color: black;
+    }
+    .logo{
+        margin-top: -40px;
+    }
+
+    .Quem{
+        margin-top: -65px;
+        text-align: center;
+        color: #fff;
+        font-size: 50px;
+    font-family: sans-serif, "Roboto";
+    }
+
+    .name ul {
+        list-style-type: none;
+        padding: 0;
+        padding-left: 280px;
+    }
+    
+    .name ul li {
+        display: inline-block;
+        margin-right: 80px; /* Espaçamento entre os elementos - ajuste conforme necessário */
+        font-size: 18px; /* Tamanho da fonte - ajuste conforme necessário */
+        color: #fff; /* Cor do texto - ajuste conforme necessário */
+        font-family: sans-serif, "Roboto";
+    }
+
+    
+.name ul li a {
+    text-decoration: none; /* Remova a formatação padrão do link */
+    color: #fff; /* Cor do link - ajuste conforme necessário */
+}
+
+.name ul li a:hover {
+    text-decoration: underline; /* Sublinhe o link no hover se desejar */
+}
+
+.P1{
+
+}
+
+.P2{
+padding-left: 10px;
+}
+
+.P3{
+padding-left: 10px;
+}
+
+.P4{
+    padding-left: 10px;
+}
+
+.P5{
+    padding-left: 8px;
+}
+
+
+    .Gerenciar{
+        margin-left: 570px;
+        margin-top: 50px;
+        text-align: center;
+        color: #fff;
+        font-size: 25px;
+    font-family: sans-serif, "Roboto";
+    border: 2px solid #fff; /* Adicione uma borda ao redor do texto */
+    display: inline-block; /* Para que a borda se ajuste ao texto */
+    padding: 10px; /* Adicione algum espaço interno dentro da borda */
+    transition: box-shadow 0.3s, color 0.3s; /* Adicione uma transição de cor para animação */
+    box-shadow: 0 0 0 0 transparent; /* Comece sem sombra */
+    }
+
+    .Gerenciar :hover{
+        color: #fff;
+        cursor: pointer;
+        box-shadow: 0 0 20px 0 #ff0000; /* Adicione uma sombra vermelha de 20px no hover */
+
+    }
+
+    
+
+    .imagem1{
+        margin-left: 250px;
+    }
+
+    .imagem5{
+        margin-right: 150px;
+    }
+    .imagem{
+    display: inline-block;
+    margin-right: 30px;
+    }
