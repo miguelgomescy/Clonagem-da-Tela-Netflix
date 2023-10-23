@@ -21,20 +21,20 @@
     
     .name ul li {
         display: inline-block;
-        margin-right: 80px; /* Espaçamento entre os elementos - ajuste conforme necessário */
-        font-size: 18px; /* Tamanho da fonte - ajuste conforme necessário */
-        color: #fff; /* Cor do texto - ajuste conforme necessário */
+        margin-right: 80px;
+        font-size: 18px; 
+        color: #fff; 
         font-family: sans-serif, "Roboto";
     }
 
     
 .name ul li a {
-    text-decoration: none; /* Remova a formatação padrão do link */
-    color: #fff; /* Cor do link - ajuste conforme necessário */
+    text-decoration: none; 
+    color: #fff; 
 }
 
 .name ul li a:hover {
-    text-decoration: underline; /* Sublinhe o link no hover se desejar */
+    text-decoration: underline; 
 }
 
 .P1{
@@ -65,21 +65,19 @@ padding-left: 10px;
         color: #fff;
         font-size: 25px;
     font-family: sans-serif, "Roboto";
-    border: 2px solid #fff; /* Adicione uma borda ao redor do texto */
-    display: inline-block; /* Para que a borda se ajuste ao texto */
-    padding: 10px; /* Adicione algum espaço interno dentro da borda */
-    transition: box-shadow 0.3s, color 0.3s; /* Adicione uma transição de cor para animação */
-    box-shadow: 0 0 0 0 transparent; /* Comece sem sombra */
+    border: 2px solid #fff; 
+    display: inline-block; 
+    padding: 10px; 
+    transition: box-shadow 0.3s, color 0.3s; 
+    box-shadow: 0 0 0 0 transparent;
     }
 
     .Gerenciar :hover{
         color: #fff;
         cursor: pointer;
-        box-shadow: 0 0 20px 0 #ff0000; /* Adicione uma sombra vermelha de 20px no hover */
+        box-shadow: 0 0 20px 0 #ff0000; 
 
     }
-
-    
 
     .imagem1{
         margin-left: 250px;
